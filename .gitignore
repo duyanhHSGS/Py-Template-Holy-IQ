@@ -5,6 +5,8 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv-linux/
+.venv-windows/
 venv/
 env/
 ENV/

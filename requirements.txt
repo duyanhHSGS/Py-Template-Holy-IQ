@@ -1,4 +1,4 @@
-# Development and validation tools; the application itself has no dependencies.
-pytest>=8,<10
-pyright>=1.1,<2
-ruff>=0.9,<1
+# Development and validation tools;
+pytest==8.4.2
+pyright==1.1.414
+ruff==0.9.10
