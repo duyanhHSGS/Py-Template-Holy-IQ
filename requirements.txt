@@ -1,4 +1,0 @@
-# Development and validation tools;
-pytest==8.4.2
-pyright==1.1.414
-ruff==0.9.10
